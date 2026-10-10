@@ -1,0 +1,28 @@
+{
+  "title": "Un momento para leer",
+  "author": "Lectura",
+  "cover": "cover.svg",
+  "metadata": {
+    "language": "es",
+    "description": "Una lectura breve para descubrir tu biblioteca."
+  },
+  "chapters": [
+    {
+      "id": "bienvenida",
+      "title": "El comienzo",
+      "text": "Hay libros que nos invitan a detenernos. Encontrá un lugar cómodo, elegí tu voz y dejá que la historia comience.",
+      "audio": "audio/el-comienzo.wav",
+      "duration": 8.075
+    },
+    {
+      "id": "ritmo",
+      "title": "Tu propio ritmo",
+      "text": "Podés escuchar con los ojos cerrados o acompañar cada frase con la mirada. Cambiá entre Libro y Audio: la lectura continúa desde el mismo lugar."
+    },
+    {
+      "id": "continuar",
+      "title": "Una nueva página",
+      "text": "Guardá este libro para escucharlo sin conexión. Tu biblioteca y tu progreso permanecen en este dispositivo. La próxima página te espera."
+    }
+  ]
+}
